@@ -1,0 +1,13 @@
+co\edu\unicauca\FacadeProxy\domain\order\Order.class
+co\edu\unicauca\FacadeProxy\app\proxy\OrderServiceLogger.class
+co\edu\unicauca\FacadeProxy\access\IOrderRepository.class
+co\edu\unicauca\FacadeProxy\app\proxy\ProxyClient.class
+co\edu\unicauca\FacadeProxy\domain\order\OrderFacade.class
+co\edu\unicauca\FacadeProxy\app\proxy\IOrderService.class
+co\edu\unicauca\FacadeProxy\domain\order\State.class
+co\edu\unicauca\FacadeProxy\access\Factory.class
+co\edu\unicauca\FacadeProxy\domain\order\Customer.class
+co\edu\unicauca\FacadeProxy\domain\order\Dish.class
+co\edu\unicauca\FacadeProxy\app\client\Main.class
+co\edu\unicauca\FacadeProxy\access\OrderRepositoryList.class
+co\edu\unicauca\FacadeProxy\domain\order\Item.class
